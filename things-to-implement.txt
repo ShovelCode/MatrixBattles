@@ -1,0 +1,119 @@
+Matrix Arithmetic:
+
+Addition and subtraction of matrices.
+Scalar multiplication.
+Matrix multiplication.
+Determinant Calculation:
+
+Finding the determinant of a matrix, which can help in understanding properties like invertibility.
+Matrix Inversion:
+
+Computing the inverse of a matrix, if it exists.
+Eigenvalues and Eigenvectors:
+
+Finding the eigenvalues (λ) and corresponding eigenvectors of a matrix. These are used in many applications, including principal component analysis in data science.
+Vector Space Basis:
+
+Finding a basis for a vector space.
+Checking if a set of vectors forms a basis.
+Linear Transformations:
+
+Understanding how matrices can represent linear transformations.
+Finding the matrix representation of a linear transformation.
+Orthogonality:
+
+Checking if vectors are orthogonal (their dot product is zero).
+Gram-Schmidt process for orthonormalization of a set of vectors.
+Linear Systems of Equations:
+
+Using Gaussian elimination or Gauss-Jordan elimination to solve a system of linear equations.
+Finding the rank of a matrix and understanding its implications for the solution to a system of equations.
+Using the LU decomposition or other matrix factorizations to solve a system.
+Vector Operations:
+
+Dot (inner) product.
+Cross product (for vectors in R^3).
+Matrix Factorizations:
+
+LU decomposition: Expressing a matrix as the product of a lower triangular matrix and an upper triangular matrix.
+QR decomposition: Expressing a matrix as the product of an orthogonal matrix and an upper triangular matrix.
+Singular value decomposition (SVD): Representing a matrix in terms of its singular values and vectors.
+Vector Projections:
+
+Projecting one vector onto another.
+Finding the orthogonal component of a vector relative to another vector.
+Matrix Diagonalization:
+
+Representing a matrix in terms of its diagonal form (if possible), using similarity transformations.
+Norms and Metrics:
+
+Computing the norm (length) of a vector.
+Measuring distances between vectors using various norms.
+Affine and Linear Subspaces:
+
+Understanding and working with planes, lines, and other subspaces in higher-dimensional spaces.
+Linear Independence:
+
+Checking if a set of vectors is linearly independent or dependent.
+
+
+** Statistics **
+Descriptive Statistics:
+
+Computing measures of central tendency: mean, median, mode.
+Computing measures of dispersion: variance, standard deviation, range, interquartile range.
+Finding percentiles and quartiles.
+Probability Distributions:
+
+Working with discrete distributions: binomial, Poisson, geometric, etc.
+Working with continuous distributions: normal, exponential, uniform, etc.
+Computing probabilities, expected values, and variances from these distributions.
+Sampling and Estimation:
+
+Drawing samples from populations.
+Constructing confidence intervals for population parameters.
+Determining sample sizes for desired confidence levels and margins of error.
+Hypothesis Testing:
+
+Formulating null and alternative hypotheses.
+Conducting tests like the t-test, chi-squared test, ANOVA, etc.
+Interpreting p-values.
+Regression Analysis:
+
+Simple linear regression: fitting a line to data points.
+Multiple regression: considering multiple independent variables.
+Checking assumptions: linearity, independence, homoscedasticity, normality.
+Correlation:
+
+Computing the Pearson correlation coefficient.
+Testing for significance of correlation.
+Bayesian Analysis:
+
+Using Bayes' theorem to update probabilities based on new evidence.
+Working with prior, likelihood, and posterior distributions.
+Time Series Analysis:
+
+Decomposing time series into trend, seasonal, and residual components.
+Forecasting future values using models like ARIMA.
+Experimental Design:
+
+Designing experiments to test hypotheses.
+Understanding concepts like control groups, randomization, and blinding.
+Non-parametric Tests:
+
+Applying tests like the Mann-Whitney U test or Kruskal-Wallis when data doesn't meet normality assumptions.
+Probability Theory Tasks:
+Computing conditional probabilities.
+Using the laws of probability (e.g., the law of total probability, Bayes' rule).
+Working with independence and mutually exclusive events.
+Factor Analysis and Principal Component Analysis (PCA):
+Reducing the dimensionality of data.
+Identifying underlying factors or principal components.
+Survival Analysis:
+Estimating survival functions.
+Applying the Kaplan-Meier estimator or Cox proportional hazards models.
+Power Analysis:
+Determining the sample size required to detect an effect of a given size with a certain confidence.
+Categorical Data Analysis:
+Using contingency tables.
+Applying chi-squared tests.
